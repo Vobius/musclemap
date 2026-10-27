@@ -3,6 +3,8 @@
 Interactive muscle map for building workout plans. Click muscles on an anatomical SVG, and get matching exercises with their primary and secondary muscle targets.
 > 🇩🇪 The MuscleMap UI is entirely in **German** (muscle and exercise names), with Latin muscle terms alongside.
 
+![MuscleMap Screenshot](2026-10-27_14-50-17.png)
+
 Everything lives in **one single HTML file**. No build step, no dependencies, no server. Just open it in your browser.
 
 ## Features
